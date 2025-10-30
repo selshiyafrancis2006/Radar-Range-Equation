@@ -21,16 +21,22 @@ The Radar Range Equation is a fundamental formula used in radar system design to
 
 <h2>Program</h2>
 
-<img width="1154" height="937" alt="image" src="https://github.com/user-attachments/assets/c4740ead-c54f-4fbb-b340-87a45e5f255e" />
+<img width="1326" height="693" alt="image" src="https://github.com/user-attachments/assets/4dacc445-138d-461c-a6bf-a92284ff0466" />
+
 
 <h2>Output Waveform</h2>
 
-<img width="710" height="549" alt="image" src="https://github.com/user-attachments/assets/76ab4303-f951-4b7f-85ad-804f71bae983" />
+<img width="741" height="565" alt="image" src="https://github.com/user-attachments/assets/db88ef86-54c4-4643-ab58-57cf715da468" />
 
-<img width="725" height="557" alt="image" src="https://github.com/user-attachments/assets/b7aa7310-1156-4561-bf8f-f0eef014d3b0" />
+<img width="751" height="567" alt="image" src="https://github.com/user-attachments/assets/7586a43a-6251-49c9-a57d-2c0b7a4e496a" />
 
-<img width="842" height="398" alt="image" src="https://github.com/user-attachments/assets/7bdc4ace-1265-4023-b7f8-f458c2bbb043" />
+<img width="763" height="570" alt="image" src="https://github.com/user-attachments/assets/96040989-6e8c-41cf-b637-f52936b7b451" />
 
 
 <h2>Tabulation</h2>
 
+<img width="1418" height="887" alt="image" src="https://github.com/user-attachments/assets/6fd4c2c6-38b0-49e3-aa7e-e007aa27168b" />
+
+<h2>Result</h2>
+
+Thus, the maximum range of a radar system calculated using the Radar Range Equation is successfully verified using Scilab programming.
