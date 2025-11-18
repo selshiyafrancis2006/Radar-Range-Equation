@@ -35,7 +35,7 @@ The Radar Range Equation is a fundamental formula used in radar system design to
 
 <h2>Tabulation</h2>
 
-<img width="1418" height="887" alt="image" src="https://github.com/user-attachments/assets/6fd4c2c6-38b0-49e3-aa7e-e007aa27168b" />
+<img width="1443" height="911" alt="image" src="https://github.com/user-attachments/assets/80371d6a-ab03-4691-a3c6-893402f86a26" />
 
 <h2>Result</h2>
 
